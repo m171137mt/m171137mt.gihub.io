@@ -1,0 +1,22 @@
+.bluecolor{
+    color:blue;
+}
+
+h1#kudo{
+    font-family: "impact";
+    font-size: 60px;
+}
+
+h2{
+    color:red :!important;
+}
+
+h2{
+    color:green;
+}
+body{ 
+   background-image:url("../images/kadaiyou.png"); 
+}
+
+
+
