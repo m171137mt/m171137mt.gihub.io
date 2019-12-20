@@ -1,0 +1,71 @@
+div.title{
+    width:1000px;
+    height:100px;
+    background-color:aquamarine;
+    font-size:70px;
+    font-family:cursive"impact";
+    margin-bottom:20px;
+    
+}
+
+div.menu{
+background-color:white;
+ width:1000px;
+height:300px; 
+ 
+
+}
+
+
+div.footer{
+    width: 1000px;
+    height:40px;
+    background-color:burlywood;
+    font-size:20px;
+    margin-top:20px;
+    vertical-align: bottom;
+}
+
+div.menu1{
+ width:250px;   
+ height:320px; 
+    display:inline-block;
+    vertical-align: top;
+    margin-right: 50px;
+}
+    
+div.menu2{
+    width:700px;
+    height:320px;
+   display:inline-block;
+    vertical-align: top;
+}
+
+
+
+div.menu3{
+   width:250px; 
+   height:100px;
+    margin-bottom:10px;
+ background-color:darkgrey; 
+}
+
+div.image{
+width:700px;
+height:300px;
+background-color:azure;
+}
+
+div.text{
+  width:700px;
+height:20px;
+background-color:lightgoldenrodyellow;  
+ vertical-align: bottom;   
+   
+}
+
+
+
+
+
+
